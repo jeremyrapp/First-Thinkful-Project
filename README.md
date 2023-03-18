@@ -1,2 +1,2 @@
 # First-Thinkful-Project-Pete-Thinkful-Portifolio
-First Thinkful Project Assignment
+First-Thinkful-Project-Pete-Thinkful-Portifolio
